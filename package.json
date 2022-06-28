@@ -18,13 +18,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamshaunjp/node-express-jwt-auth.git"
+    "url": "git+https://github.com/ceyhun-yildiz/node-express-ejs-mongodb-jwt-token-authentication.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iamshaunjp/node-express-jwt-auth/issues"
+    "url": "https://github.com/ceyhun-yildiz/node-express-ejs-mongodb-jwt-token-authentication/issues"
   },
-  "homepage": "https://github.com/iamshaunjp/node-express-jwt-auth#readme"
+  "homepage": "https://github.com/ceyhun-yildiz/node-express-ejs-mongodb-jwt-token-authentication.git#readme"
 }
